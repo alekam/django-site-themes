@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Volf <alex@kamedov.ru>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-26 10:15+0600\n"
+"PO-Revision-Date: 2010-07-26 10:21+0600\n"
+"Last-Translator: Volf <alex@kamedov.ru>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.6.1\n"
+
+#: models.py:14
+msgid "title"
+msgstr "название"
+
+#: models.py:15
+msgid "Theme name"
+msgstr "Имя папки темы"
+
+#: models.py:16
+msgid "description"
+msgstr "Описание"
+
+#: models.py:23
+msgid "Theme"
+msgstr "тема"
+
+#: models.py:24
+msgid "Themes"
+msgstr "темы"
+
+#: models.py:41
+msgid "site"
+msgstr "сайт"
+
+#: models.py:43
+msgid "theme"
+msgstr "Тема"
+
+#: models.py:49
+msgid "Site theme"
+msgstr "тема сайта"
+
+#: models.py:50
+msgid "Site themes"
+msgstr "темы сайтов"
