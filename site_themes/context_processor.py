@@ -14,6 +14,6 @@ def site_theme_media(request):
         except Theme.DoesNotExist:
             raise ImproperlyConfigured('Default theme is not exist!')
     return {
-                'THEME_MEDIA_URL': '%s/%s/media/' % (
+                'THEME_MEDIA_URL': '%s%s/media/' % (
                                     settings.SITE_THEMES_URL, theme_name),
             }
